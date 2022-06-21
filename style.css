@@ -15,9 +15,9 @@ div {
   height: 5em;
   width: 5em;
   border-radius: 50%;
-  box-shadow: inset -0.4em -0.55em 0.5em -0.25em #0007,
+  box-shadow: inset -10px -10px 100px #0007,
     inset -0.75em -0.5em 0.075em 0.25em var(--color),
-    2em 0.05em 3em -1.5em var(--color);
+    10px 10px 20px var(--color);
 }
 
 @keyframes orbit {
